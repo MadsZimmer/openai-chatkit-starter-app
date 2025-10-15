@@ -13,7 +13,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   // ...tilføj flere hvis du vil
 ];
 
-export const PLACEHOLDER_INPUT = "Skriv til AI";
+export const PLACEHOLDER_INPUT = "Spørg mig";
 export const GREETING = "Hvad kan jeg hjælpe dig med i dag?";
 
 // Tema (din fulde kontrol)
