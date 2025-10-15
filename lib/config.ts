@@ -9,7 +9,8 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 // Startskærm
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   { label: "Hvad kan du?", prompt: "Hvad kan du hjælpe med?", icon: "circle-question" },
-  { label: "Hvad er fordelen ved A-kassen?", prompt: "Hvad er fordelen ved A-kassen?", icon: "circle-question" }
+  { label: "Hvad er fordelen ved A-kassen?", prompt: "Hvad er fordelen ved A-kassen?", icon: "circle-question" },
+  { label: "Hvordan melder jeg mig ind?", prompt: "Hvordan melder jeg mig ind?", icon: "circle-question" }
   // ...tilføj flere hvis du vil
 ];
 
