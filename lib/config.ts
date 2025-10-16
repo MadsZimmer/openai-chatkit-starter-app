@@ -15,7 +15,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
 ];
 
 export const PLACEHOLDER_INPUT = "Spørg mig";
-export const GREETING = "Hvad kan jeg hjælpe dig med i dag?";
+export const GREETING = "Hvad kan jeg hjælpe med i dag?";
 
 // Tema (din fulde kontrol)
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
